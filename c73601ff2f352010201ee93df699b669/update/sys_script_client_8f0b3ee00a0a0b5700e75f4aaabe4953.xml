@@ -49,7 +49,7 @@ function vipCallerCallback(caller) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8f0b3ee00a0a0b5700e75f4aaabe4953</sys_id>
-        <sys_mod_count>31</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_name>Highlight VIP Caller</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Best Practice - Incident Resolution Workflow" source="com.snc.bestpractice.incident">86e6b3c0c967101091f9f06464832712</sys_package>
@@ -57,7 +57,7 @@ function vipCallerCallback(caller) {
         <sys_scope display_value="Incident Management ">c73601ff2f352010201ee93df699b669</sys_scope>
         <sys_update_name>sys_script_client_8f0b3ee00a0a0b5700e75f4aaabe4953</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-26 00:03:45</sys_updated_on>
+        <sys_updated_on>2021-01-27 15:06:36</sys_updated_on>
         <table>incident</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
